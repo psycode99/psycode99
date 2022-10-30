@@ -4,7 +4,7 @@
 
 </div>
 
-<p></p>
+<p><b>Hi,</b> my name is Favour George and I am a Full Stack Python Developer specializing in the building of web applications, analysis of data, building of machine learning models and writing of scripts for testing and automation processes. I love learning new technologies and methods of solving problems. I also love challenges and building projects that are of great importance to me and people. I am equally a technical writer, writing articles to help other developers.</p>
 
 
 
